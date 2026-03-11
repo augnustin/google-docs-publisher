@@ -1,7 +1,14 @@
 # [Google Doc Publisher](http://gdoc.pub/)
+
 ## Publish good looking Google Docs
 
 Google Docs are nice, but they look ugly when published to the web. Well... not anymore!
+
+## Support
+
+If you like this project, consider supporting it through [GitHub Sponsors](https://github.com/sponsors/augnustin).
+
+This project is open source and maintained on a voluntary basis in my free time. If it saves you time or helps your work, your sponsorship is entirely optional but greatly appreciated, and helps me cover the time and costs of maintaining and improving it.
 
 ## Usage
 
